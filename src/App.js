@@ -1,10 +1,13 @@
 import './App.css';
-import HangmanGame from './Hangman Game/HangmanGame';
+// import WordSearch from './WordSearch/WordSearch';
+import VideoPlayer from './VideosPlayer/VideosPlayer';
 
 function App() {
   return (
     <div className="App">
-      <HangmanGame />
+      {/* <HangmanGame /> */}
+      {/* <WordSearch /> */}
+      <VideoPlayer />
     </div>
   );
 }

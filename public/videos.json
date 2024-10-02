@@ -1,0 +1,38 @@
+[
+    {
+      "chapter": "Introduction",
+      "lessons": [
+        {
+          "title": "Lesson 1: Introduction",
+          "url": "/Videos/Video1.mp4"
+        }
+      ]
+    },
+    {
+      "chapter": "Chapter 1",
+      "lessons": [
+        {
+          "title": "Lesson 1: Topic A",
+          "url": "/Videos/Video1.mp4"
+        },
+        {
+          "title": "Lesson 2: Topic B",
+          "url": "/Videos/Video1.mp4"
+        }
+      ]
+    },
+    {
+      "chapter": "Chapter 2",
+      "lessons": [
+        {
+          "title": "Lesson 1: Topic A",
+          "url": "/Videos/Video1.mp4"
+        },
+        {
+          "title": "Lesson 2: Topic B",
+          "url": "/Videos/Video1.mp4"
+        }
+      ]
+    }
+  ]
+  
